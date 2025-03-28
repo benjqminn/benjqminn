@@ -94,21 +94,21 @@ I'm currently learning **Velociraptor**, a powerful tool for endpoint visibility
   Built an echo client-server application using Python sockets to demonstrate real-time TCP/IP communication.  
   _Skills: Networking · Python · Client-Server Architecture_
 
-- **[Banner Grabber](https://github.com/benjqmin/banner-grabber)**  
+- **[Banner Grabber](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/bannergrabber)**  
   Lightweight tool for grabbing service banners from open ports to aid in reconnaissance.  
   _Skills: Scripting · TCP/IP · Reconnaissance_
 
-- **[Nmap Scanner Tool](https://github.com/benjqmin/nmap-scanner)**  
+- **[Nmap Scanner Tool](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/nmap_scanner)**  
   Python wrapper for automating Nmap scans and formatting the results for quick analysis.  
   _Skills: Network Scanning · Python · Automation_
 
-- **[Port Scanner](https://github.com/benjqmin/port-scanner)**  
+- **[Port Scanner](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/portscanner)**  
   A threaded Python-based port scanner built with the `socket` library.  
   _Skills: TCP Scanning · Python · Networking_
 
-- **[Stock Checker CLI App](https://github.com/benjqmin/stock-checker)**  
-  Simple command-line tool to check product stock availability from retail APIs.  
-  _Skills: API Integration · Web Automation · Python_
+- **[Stock Price Checker Web App](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Stock_Checker)**  
+  Built as part of the freeCodeCamp Information Security curriculum, this Node.js web application checks real-time stock prices via a third-party API. It supports single and relative stock queries, tracks likes by IP to prevent manipulation, and is fully tested using Mocha/Chai.  
+  _Skills: API Security · Node.js · Express · HTTP Requests · Input Validation · Testing_
 
 ---
 
