@@ -118,6 +118,15 @@ I'm currently learning **Velociraptor**, a powerful tool for endpoint visibility
   Co-presented a breakdown of cloud architecture, latency challenges, adaptive buffering, and edge computing in modern applications.  
   _Skills: Cloud Networking · Research · Presentation Design_
 
+### 🌐 Web Development Projects
+
+- **[ITIS 3135 – Personal Course Website](https://webpages.charlotte.edu/btayl106/)**  
+  Designed and developed a responsive portfolio site as part of UNC Charlotte’s ITIS 3135 course. The site demonstrates skills in HTML5, CSS, JavaScript, responsive design, and semantic structure. Hosted both on the university server and GitHub Pages.  
+  _Skills: Web Design · HTML/CSS · JavaScript · GitHub Pages · Accessibility · Hosting_
+
+- **[GitHub Pages Mirror](https://benjqminn.github.io/)**  
+  A GitHub-hosted version of the course website, serving as a backup and public showcase of web development work.
+
 ## 🤝 Let's Connect!
 
 I'm always open to meeting like-minded learners, security professionals, and anyone passionate about technology. Feel free to reach out:
