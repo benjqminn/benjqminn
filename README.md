@@ -79,6 +79,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
     <a href="https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+    <a href="https://tryhackme.com/certificate/THM-5ZPDLYJEZW"><img src="https://img.shields.io/badge/-TryHackMe_Cyber_Security_101-7E3794?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/foundational-c-sharp-with-microsoft"><img src="https://img.shields.io/badge/-Foundational_C%23_with_Microsoft-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/javascript-algorithms-and-data-structures-v8"><img src="https://img.shields.io/badge/-JavaScript_Algorithms_%26_Data_Structures-0A0A23?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/responsive-web-design"><img src="https://img.shields.io/badge/-Responsive_Web_Design-0A0A23?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" /></a>
