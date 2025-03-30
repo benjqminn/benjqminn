@@ -35,20 +35,44 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Burp_Suite-ff6600?&style=for-the-badge&logoColor=white" />
 </div>
 
-
 ### 💻 Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-System_Logs-808080?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Learning_Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
-
-I'm currently learning **Velociraptor**, a powerful tool for endpoint visibility and digital forensics. My goal is to build stronger incident response and threat hunting skills by exploring live forensic collection and query-based investigations.
 
 ### 📊 SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### 🔐 Password Cracking
+<div>
+    <img src="https://img.shields.io/badge/-John_the_Ripper-9C27B0?&style=for-the-badge&logoColor=white" />
+</div>
+
+### 🧰 Web & Exploitation
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-5E5E5E?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
+
+### 💻 OS & Shell
+<div>
+    <img src="https://img.shields.io/badge/-Linux_Terminal-4EAA25?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_CMD-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+</div>
+
+### 🧠 Scripting & Dev Tools
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
 </div>
 
 ## 📜 Certifications
