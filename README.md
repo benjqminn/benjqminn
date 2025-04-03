@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | **Client-Server Networking & Socket Dev**    | [Socket Programming in Python](https://github.com/benjqminn/cybersecurity/tree/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Socket%20Programming%20Python) |
 | **Cloud Networking Concepts**                | [Cloud Computing Slides](https://github.com/benjqminn/cybersecurity/blob/a648b774a037ee83e19ed11e9541c2a97184f8db/Presentations/Cloud%20Computing%20-%20A%20Network%20Application%20Analysis.pdf) |
 
-🛡️ Click here for my <a href="https://github.com/benjqminn/cybersecurity">Cybersecurity Repository</a>
+🛡️ Click here for my <a href="https://github.com/benjqminn/cybersecurity">Cybersecurity Repository</a><br>
 📜 Click here for my <a href="https://github.com/benjqminn/certifications">Certifications Repository</a>
 
 ## Tools
