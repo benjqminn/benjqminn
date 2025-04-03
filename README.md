@@ -25,6 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | **Cloud Networking Concepts**                | [Cloud Computing Slides](https://github.com/benjqminn/cybersecurity/blob/a648b774a037ee83e19ed11e9541c2a97184f8db/Presentations/Cloud%20Computing%20-%20A%20Network%20Application%20Analysis.pdf) |
 
 🛡️ Click here for my <a href="https://github.com/benjqminn/cybersecurity">Cybersecurity Repository</a>
+📜 Click here for my <a href="https://github.com/benjqminn/certifications">Certifications Repository</a>
 
 ## Tools
 
