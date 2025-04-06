@@ -35,6 +35,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-ff6600?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-8A2BE2?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Brim-3A3A3A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-E10098?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### 💻 Endpoint
@@ -82,10 +86,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <a href="https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-24292F?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/de146e4d-f8ef-4fe9-b3df-0e1af47d03e0/public_url"><img src="https://img.shields.io/badge/-Cisco_Intro_to_Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
     <a href="https://tryhackme.com/certificate/THM-5ZPDLYJEZW"><img src="https://img.shields.io/badge/-TryHackMe_Cyber_Security_101-7E3794?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/foundational-c-sharp-with-microsoft"><img src="https://img.shields.io/badge/-Foundational_C%23_with_Microsoft-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/javascript-algorithms-and-data-structures-v8"><img src="https://img.shields.io/badge/-JavaScript_Algorithms_%26_Data_Structures-0A0A23?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/responsive-web-design"><img src="https://img.shields.io/badge/-Responsive_Web_Design-0A0A23?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" /></a>
+    <a href="https://coursera.org/share/96a3da0af2ae36d7020e3ad5581042d6"><img src="https://img.shields.io/badge/-Google_Business_Intelligence-34A853?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a href="https://www.linkedin.com/learning/certificates/49de4fe4e44ca9d02f21f5c01007ccaff17b9bf76a0475873f5d58a43d9ad89b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrZ%2BA2zw9Q7%2B4Hzn2QU8L1g%3D%3D"><img src="https://img.shields.io/badge/-Learning_Data_Analytics_Foundations-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </div>
 
