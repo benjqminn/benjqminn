@@ -106,6 +106,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🧪 Featured Projects
 
+### 🔍 [Obscura](https://github.com/benjqminn/obscura-project) – Real-Time Threat Intelligence Dashboard
+
+- Obscura is a real-time SOC simulation platform built from scratch to analyze .pcap traffic, detect threat patterns (like SYN scans, YARA matches, brute force attempts), and visualize them on a full-stack dashboard. This project demonstrates high-level skill in cybersecurity, detection engineering, data parsing, and frontend/backend architecture.
+
+  ⚙️ Key Technologies:
+
+    - Python · PyShark · YARA · React · TailwindCSS · Chart.js · Docker · Flask
+
+  🔒 Private Access Notice:
+
+  - The source code is private for security reasons. Recruiters or security engineers may DM me on LinkedIn for access via a fine-grained GitHub token.
+
+---
+
 ### 🛡️ Cybersecurity & Research
 
 - **[Hardening Cybersecurity in Healthcare](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Hardening%20Cybersecurity%20(WannaCry)/Hardening%20Cybersecurity%20in%20Healthcare.pdf)**  
