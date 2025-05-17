@@ -1,31 +1,37 @@
 # Hello, I'm Benjamin Taylor
 <a href="https://www.linkedin.com/in/btayl106/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current Computer Science student at UNC Charlotte, concentrating in Cybersecurity. I have a profound interest in technology, and a dedication to making the internet more secure. I’m particularly drawn to cybersecurity because it allows me to combine technical problem-solving with meaningful impact. 
+I'm a Computer Science student at UNC Charlotte, concentrating in **Cybersecurity** with a minor in **Mathematics**. I specialize in threat detection, network forensics, and SOC operations, combining deep technical skills with a mission-driven mindset.
+
+My work blends applied security engineering with real-world problem solving. Whether it be building live PCAP analysis platforms or publishing research on IoT vulnerabilities, I’m driven by the goal of making systems safer, smarter, and more resilient.
+
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I’ve always found it fascinating to be able to protect people online, and I’m driven by the goal of making a meaningful impact in the cybersecurity space.
+My journey in computer science led me to develop a deep passion for Cybersecurity. I’m now focused on transitioning into a Security Operations Center (SOC) as a Tier 1 Analyst, where I can actively monitor threats, triage alerts, and defend critical systems. I’ve always been driven by the idea of protecting others in the digital space. I’m committed to making a real, measurable impact in the field.
 > _"For me, life is continuously being hungry. The meaning of life is not simply to exist… but to move ahead, to go up, to achieve, to conquer."_  
 > — **Arnold Schwarzenegger**
 
+
 ## 🧠 Cybersecurity Skills & Applied Experience
 
-| Skills                                   | Demonstrated In                             |
-|---------------------------------------------|---------------------------------------------|
-| **SIEM & Log Monitoring (Introductory)**     | [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B), Windows Event Viewer |
-| **Threat Analysis & Risk Assessment**        | [Tesla Model S Hack](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/2015%20Tesla%20Model%20S%20Hack.pdf), [Google Certification](https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B) |
-| **Vulnerability Assessment**                 | [Hardening Cybersecurity in Healthcare](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Hardening%20Cybersecurity%20(WannaCry)/Hardening%20Cybersecurity%20in%20Healthcare.pdf), [Google Certification](https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B) |
-| **Scripting & Automation for Security**      | [Port Scanner](https://github.com/benjqmin/port-scanner), [Stock Checker](https://github.com/benjqmin/stock-checker) |
-| **Endpoint Monitoring & System Logs**        | Microsoft Defender, Windows Event Viewer |
-| **Intrusion Detection & Reconnaissance**     | [Banner Grabber](https://github.com/benjqmin/banner-grabber), [Nmap Scanner](https://github.com/benjqmin/nmap-scanner) |
-| **Authentication & Access Control**          | [Google Cybersecurity Certification](https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B) |
-| **DDoS Mitigation & Network Defense**        | [Cloudflare Research](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/DDoS%20mitigation%20from%20Cloudflare.pdf) |
-| **Client-Server Networking & Socket Dev**    | [Socket Programming in Python](https://github.com/benjqminn/cybersecurity/tree/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Socket%20Programming%20Python) |
-| **Cloud Networking Concepts**                | [Cloud Computing Slides](https://github.com/benjqminn/cybersecurity/blob/a648b774a037ee83e19ed11e9541c2a97184f8db/Presentations/Cloud%20Computing%20-%20A%20Network%20Application%20Analysis.pdf) |
+| Skills                                        | Demonstrated In                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------|
+| **Foundational Cybersecurity Concepts**      | [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B) |
+| **SIEM & Log Monitoring**                   | TryHackMe SOC Level 1, Splunk, Microsoft Sentinel                              |
+| **Threat Detection & Packet Triage**        | [Obscura](https://github.com/benjqminn/obscura-project), Wireshark, Zeek, Brim |
+| **YARA Rule Engineering**                   | [Obscura](https://github.com/benjqminn/obscura-project), Custom Signatures     |
+| **Scripting & Automation for Security**     | [Port Scanner](https://github.com/benjqminn/port-scanner), [Banner Grabber](https://github.com/benjqminn/banner-grabber) |
+| **Endpoint Monitoring & System Logs**       | Microsoft Defender, Windows Event Viewer                                       |
+| **Intrusion Detection & Reconnaissance**    | [Nmap Scanner](https://github.com/benjqminn/nmap-scanner), tcpdump, Snort      |
+| **MITRE ATT&CK Mapping**                    | TryHackMe SOC Labs, Custom Alert Classification in Obscura                     |
+| **IoT Security & Vulnerability Assessment** | [Your Smart Toaster Cyberweapon](https://medium.com/@btayl106/your-smart-toaster-could-be-a-cyberweapon-the-urgent-need-for-iot-device-security-f08513a5947a) |
+| **Client-Server Networking & Socket Dev**   | [Socket Programming](https://github.com/benjqminn/cybersecurity/tree/main/Presentations/Socket%20Programming%20Python) |
+| **Cloud & DDoS Defense**                    | [Cloudflare Research](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/DDoS%20mitigation%20from%20Cloudflare.pdf) |
 
 🛡️ Click here for my <a href="https://github.com/benjqminn/cybersecurity">Cybersecurity Repository</a><br>
 📜 Click here for my <a href="https://github.com/benjqminn/certifications">Certifications Repository</a>
+
 
 ## Tools
 
@@ -34,11 +40,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-ff6600?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyShark-1E90FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YARA-8B008B?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-TShark-8A2BE2?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Brim-3A3A3A?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-E10098?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-ff6600?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### 💻 Endpoint
@@ -75,11 +83,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
     <img src="https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyQt5-41CD52?&style=for-the-badge&logo=Qt&logoColor=white" />
 </div>
+
 
 ## 📜 Certifications
 
@@ -87,6 +98,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <a href="https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-24292F?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
     <a href="https://www.credly.com/badges/de146e4d-f8ef-4fe9-b3df-0e1af47d03e0/public_url"><img src="https://img.shields.io/badge/-Cisco_Intro_to_Cybersecurity-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+    <a href="https://tryhackme.com/certificate/THM-5ZPDLYJEZW"><img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-7E3794?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
     <a href="https://tryhackme.com/certificate/THM-5ZPDLYJEZW"><img src="https://img.shields.io/badge/-TryHackMe_Cyber_Security_101-7E3794?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/foundational-c-sharp-with-microsoft"><img src="https://img.shields.io/badge/-Foundational_C%23_with_Microsoft-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://freecodecamp.org/certification/benjqmin/javascript-algorithms-and-data-structures-v8"><img src="https://img.shields.io/badge/-JavaScript_Algorithms_%26_Data_Structures-0A0A23?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" /></a>
@@ -108,72 +120,91 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### 🔍 [Obscura](https://github.com/benjqminn/obscura-project) – Real-Time Threat Intelligence Dashboard
 
-- Obscura is a real-time SOC simulation platform built from scratch to analyze .pcap traffic, detect threat patterns (like SYN scans, YARA matches, brute force attempts), and visualize them on a full-stack dashboard. This project demonstrates high-level skill in cybersecurity, detection engineering, data parsing, and frontend/backend architecture.
-
+- Obscura is a full-stack SOC simulation and threat detection platform that ingests `.pcap` traffic, detects attack patterns (YARA matches, brute force attempts, SYN scans), and visualizes alerts in a React + Flask dashboard. Features include user-uploaded log parsing, IP geolocation mapping, and dynamic alert filtering.
+  
   ⚙️ Key Technologies:
 
-    - Python · PyShark · YARA · React · TailwindCSS · Chart.js · Docker · Flask
+    - Python · Flask · PyShark · YARA · React · TailwindCSS · Chart.js · Docker
 
   🔒 Private Access Notice:
 
-  - The source code is private for security reasons. Recruiters or security engineers may DM me on LinkedIn for access via a fine-grained GitHub token.
+  - Under active development. The source code is private for security reasons. Recruiters may DM me on LinkedIn for access via a fine-grained GitHub token.
+
+---
+
+### 🎧 [RAGEBOX](https://github.com/benjqminn/ragebox-project) – Multimedia Gym Clip Manager
+
+- RAGEBOX is a high-intensity multimedia app that stores, sorts, and plays rage-fueled music clips for training sessions. Designed with PyQt5, the app supports playlists, tag filtering, rage levels, emotion tagging, and file metadata editing. Built for performance athletes and gym-goers who need custom audio and edits.
+
+  ⚙️ Key Technologies:
+
+    - Python · PyQt5 · SQLite · Mutagen · UI/UX Design · Audio Integration
+
+  🔒 Project Status:
+
+  - Under active development. Currently includes database schema, playback UI, playlist support, and tagging system. Recruiters may DM me on LinkedIn for access via a fine-grained GitHub token.
 
 ---
 
 ### 🛡️ Cybersecurity & Research
 
+- **[Your Smart Toaster Could Be a Cyberweapon](https://medium.com/@btayl106/your-smart-toaster-could-be-a-cyberweapon-the-urgent-need-for-iot-device-security-f08513a5947a)**  
+  Published research article analyzing the cybersecurity risks of IoT devices, referencing real-world attacks like Mirai and WannaCry. Offers ACM Code of Ethics-based technical and policy solutions for defending modern infrastructure.  
+  _Skills: IoT Security · Ethical Hacking · Research Writing · Cyber Policy_
+
 - **[Hardening Cybersecurity in Healthcare](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Hardening%20Cybersecurity%20(WannaCry)/Hardening%20Cybersecurity%20in%20Healthcare.pdf)**  
-  Delivered a professional presentation on ransomware threats, IoT vulnerabilities, and real-world incidents like WannaCry. Focused on Zero Trust, segmentation, and critical infrastructure defense.  
-  _Skills: Cybersecurity · Risk Management · Network Security · Threat & Vulnerability Management · Public Speaking_
+  Professional slide deck addressing ransomware in medical systems, critical IoT threats, and Zero Trust enforcement strategies.  
+  _Skills: Cybersecurity · Ransomware Defense · Network Segmentation · Infrastructure Hardening_
 
 - **[Tesla Model S Hack – Cybersecurity Analysis](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/2015%20Tesla%20Model%20S%20Hack.pdf)**  
-  Researched and presented ethical hacking insights on vehicle systems, focusing on the 2015 Tesla Model S vulnerabilities and defensive strategies.  
-  _Skills: Ethical Hacking · Technical Presentations · Automotive Security_
+  Explored vehicle vulnerabilities through the lens of the 2015 Tesla remote takeover exploit and discussed remediation strategies.  
+  _Skills: Automotive Security · Security Research · Ethical Disclosure_
 
 - **[DDoS Mitigation Strategies with Cloudflare](https://github.com/benjqminn/cybersecurity/blob/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/DDoS%20mitigation%20from%20Cloudflare.pdf)**  
-  Collaborative research presentation covering Spamhaus DDoS attacks and defenses like Anycast routing, WAFs, and AI-driven detection.  
-  _Skills: DDoS Defense · Cloud Security · Threat Detection_
+  Delivered a research presentation on DDoS trends and countermeasures including Anycast routing, WAFs, and AI-enhanced detection systems.  
+  _Skills: DDoS Defense · Cloud Security · Network Resilience_
 
 ---
 
 ### 💻 Development & Networking
 
 - **[Socket Programming in Python](https://github.com/benjqminn/cybersecurity/tree/ff333a7af9e41c526cfa9b3568a931200a5b194d/Presentations/Socket%20Programming%20Python)**  
-  Built an echo client-server application using Python sockets to demonstrate real-time TCP/IP communication.  
-  _Skills: Networking · Python · Client-Server Architecture_
+  Implemented a basic TCP client-server echo system using raw sockets to demonstrate two-way communication.  
+  _Skills: Networking · Python · TCP/IP Fundamentals_
 
-- **[Banner Grabber](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/bannergrabber)**  
-  Lightweight tool for grabbing service banners from open ports to aid in reconnaissance.  
-  _Skills: Scripting · TCP/IP · Reconnaissance_
+- **[Banner Grabber](https://github.com/benjqminn/banner-grabber)**  
+  Custom-built tool for identifying service banners during recon. Designed for stealth and speed.  
+  _Skills: Network Recon · Python · Offensive Security_
 
-- **[Nmap Scanner Tool](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/nmap_scanner)**  
-  Python wrapper for automating Nmap scans and formatting the results for quick analysis.  
-  _Skills: Network Scanning · Python · Automation_
+- **[Nmap Scanner Tool](https://github.com/benjqminn/nmap-scanner)**  
+  Wrapper around Nmap for automation and streamlined result parsing. Helpful for batch scans.  
+  _Skills: Network Mapping · Automation · Python · XML Parsing_
 
-- **[Port Scanner](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Infosecurity/portscanner)**  
-  A threaded Python-based port scanner built with the `socket` library.  
-  _Skills: TCP Scanning · Python · Networking_
+- **[Port Scanner](https://github.com/benjqminn/port-scanner)**  
+  Multithreaded Python scanner using the `socket` library to probe open TCP ports.  
+  _Skills: Port Scanning · Threading · Scripting_
 
-- **[Stock Price Checker Web App](https://github.com/benjqminn/cybersecurity/tree/8659fe798284a6cef7f9faaa5b8636d26912dcc7/Stock_Checker)**  
-  Built as part of the freeCodeCamp Information Security curriculum, this Node.js web application checks real-time stock prices via a third-party API. It supports single and relative stock queries, tracks likes by IP to prevent manipulation, and is fully tested using Mocha/Chai.  
-  _Skills: API Security · Node.js · Express · HTTP Requests · Input Validation · Testing_
+- **[Stock Price Checker Web App](https://github.com/benjqminn/stock-checker)**  
+  Developed as part of freeCodeCamp’s Information Security projects. Queries stock prices and tracks likes per IP to simulate input validation and protection.  
+  _Skills: Node.js · Express · Mocha/Chai · HTTP API Security_
 
 ---
 
 ### ☁️ Network & Cloud Presentations
 
 - **[Cloud Computing: A Network Application Analysis](https://github.com/benjqminn/cybersecurity/blob/a648b774a037ee83e19ed11e9541c2a97184f8db/Presentations/Cloud%20Computing%20-%20A%20Network%20Application%20Analysis.pdf)**  
-  Co-presented a breakdown of cloud architecture, latency challenges, adaptive buffering, and edge computing in modern applications.  
-  _Skills: Cloud Networking · Research · Presentation Design_
+  Covered architectural designs and networking challenges in cloud computing, including buffering, latency mitigation, and edge strategies.  
+  _Skills: Cloud Infrastructure · Application Design · Technical Presentation_
 
 ### 🌐 Web Development Projects
 
 - **[ITIS 3135 – Personal Course Website](https://webpages.charlotte.edu/btayl106/)**  
-  Designed and developed a responsive portfolio site as part of UNC Charlotte’s ITIS 3135 course. The site demonstrates skills in HTML5, CSS, JavaScript, responsive design, and semantic structure. Hosted both on the university server and GitHub Pages.  
-  _Skills: Web Design · HTML/CSS · JavaScript · GitHub Pages · Accessibility · Hosting_
+  Designed and published a semantic, responsive personal course site using HTML, CSS, and vanilla JavaScript.  
+  _Skills: Frontend Design · Web Accessibility · Semantic HTML · JS DOM Manipulation_
 
 - **[GitHub Pages Mirror](https://benjqminn.github.io/)**  
-  A GitHub-hosted version of the course website, serving as a backup and public showcase of web development work.
+  Static backup of university project site, built using GitHub Pages for public access and persistent hosting.
+
 
 ## 🤝 Let's Connect!
 
