@@ -4,7 +4,7 @@
 **CEO & Co-Founder @ Betta Phish** • **Early Entry M.S. Cybersecurity @ UNC Charlotte**  
 **B.S. Computer Science (Cybersecurity) + Minor in Mathematics**
 
-I’m a security-minded builder focused on **threat detection, network forensics, and SOC operations**. I blend applied security engineering with real-world problem solving—from live **PCAP analysis** platforms to **security education products** at Betta Phish. My north star: make systems **safer, smarter, and more resilient**.
+I’m a security-minded builder focused on **threat detection, network forensics, and SOC operations**. I blend applied security engineering with real-world problem solving—from live **PCAP analysis** platforms to **security education products** at Betta Phish. My goal: make systems **safer, smarter, and more resilient**.
 
 - **Betta Phish (Co-Founder/CEO):** shipping gamified security-awareness products (phishing + financial literacy) and piloting campus/club rollouts.  
 - **UNC Charlotte Early Entry:** pursuing an **M.S. in Cybersecurity** while finishing my B.S., doubling down on DFIR, detection engineering, and secure systems.
