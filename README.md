@@ -14,7 +14,7 @@ I’m a security-minded builder focused on **threat detection, network forensics
 ## 🔭 What I’m Working On (Oct 2025)
 
 - **HackTheBox Holmes CTF (Blue)** – Team Captain, **Top 8%** finish (634/7,085). Forensics, Volatility3, ATT&CK mapping, wmiexec lateral traces.  
-  🔗 Writeups Hub: https://github.com/benjqminn/holmes-ctf-writeups
+  🔗 Writeups Hub: [https://github.com/benjqminn/holmes-ctf-writeups](https://github.com/benjqminn/benjqminn.github.io/blob/main/holmes-ctf/index.md)
 - **“Hooked?” – CCI Startup Hackathon (Most Creative Award)** – Gamified phishing-awareness + financial-literacy prototype built in <48 hours (Flask, HTMX, React).  
   🔗 Repo: https://github.com/Betta-Phish/hooked  
   🎥 Website: [https://betta-phish.github.io/bettaphish/](https://betta-phish.github.io/bettaphish/)
