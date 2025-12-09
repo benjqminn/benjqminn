@@ -11,18 +11,16 @@ I’m a security-minded builder focused on **threat detection, network forensics
 
 ---
 
-## 🔭 What I’m Working On (Oct 2025)
+## ❄️🔭 What I’m Working On (Dec 2025)
 
-- **HackTheBox Holmes CTF (Blue)** – Team Captain, **Top 8%** finish (634/7,085). Forensics, Volatility3, ATT&CK mapping, wmiexec lateral traces.  
-  🔗 Writeups Hub: [https://github.com/benjqminn/holmes-ctf-writeups](https://github.com/benjqminn/benjqminn.github.io/blob/main/holmes-ctf/index.md)
-- **“Hooked?” – CCI Startup Hackathon (Most Creative Award)** – Gamified phishing-awareness + financial-literacy prototype built in <48 hours (Flask, HTMX, React).  
+- **CompTIA Security+ (SY0-701)** – Deep in exam preparation, strengthening fundamentals in threat detection, secure architecture, IAM, and incident response.
+- **AWS Certified Cloud Practitioner** – Studying cloud foundations while applying core AWS services hands-on through my homelab and project deployments.
+- **Betta Phish – Cloud Migration (AWS)** – Actively moving our phishing-awareness + financial-literacy platform into AWS  
+  (S3, CloudFront, Lambda, API Gateway, DynamoDB) to prep for early-2026 startup incubator opportunities.  
   🔗 Repo: https://github.com/Betta-Phish/hooked  
-  🎥 Website: [https://betta-phish.github.io/bettaphish/](https://betta-phish.github.io/bettaphish/)
-- **NSA Codebreaker Challenge 2025** – Completed **Event 1**; continuing through the challenge to sharpen DFIR and detection skills.  
-  🔗 https://nsa-codebreaker.org/challenge
-- **SOC Homelab (Virtualized)** – Rebuilt an old PC into a mini-enterprise lab (ELK/Wazuh, Ubuntu mgmt VM, Windows victim with Sysmon, Kali attacker) for detection engineering and IR drills.  
-  🔗 Overview: [Read about it on medium.com](https://medium.com/@btayl106/turning-an-old-pc-into-a-security-operations-center-6ffe7dc4795d)
-- **Obscura** – Ongoing enhancements to my full-stack SOC simulation platform (Flask + PyShark + YARA + React) for real-time packet triage.
+  🎥 Website: https://betta-phish.github.io/bettaphish/
+- **HackTheBox – Tinsel Trouble CTF** – Competing in HTB’s holiday university CTF (representing UNC Charlotte), focusing on defensive investigation, log analysis, and incident triage.
+- **Maritime Cybersecurity Hackathon (Wilmington, NC)** – Preparing for a team-based security competition exploring OT/ICS risks and port-security sce
 
 ---
 
