@@ -136,6 +136,7 @@ My journey in computer science led me to develop a deep passion for Cybersecurit
 ## 📜 Certifications
 
 <div>
+  <a><img src="https://img.shields.io/badge/-CompTIA_Security%2B-EA1D25?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
     <a href="https://www.coursera.org/account/accomplishments/specialization/I7ARLLO6I41B"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" /></a>
     <a><img src="https://img.shields.io/badge/-ISC2_Certified_in_Cybersecurity_(CC)-24292F?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
     <a href="https://tryhackme.com/certificate/THM-5ZPDLYJEZW"><img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-7E3794?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
