@@ -1,14 +1,14 @@
 # Hello, I'm Benjamin Taylor
 
-<a href="https://www.linkedin.com/in/btayl106/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Benjamin on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/btayl106/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Benjamin on LinkedIn" /></a> <a href="https://benjqminn.github.io/"><img src="https://img.shields.io/badge/Portfolio-174B3B?style=for-the-badge" alt="Benjamin Taylor portfolio" /></a>
 
 - **M.S. Cybersecurity Student @ UNC Charlotte — expected December 2026**
 - **B.S. Computer Science — Cybersecurity Concentration**
-- **Completed a 2026 Cybersecurity Internship @ Wells Fargo**
+- **Completed a 2026 Security Operations Center internship at Wells Fargo; returning through the 2027 Technology Analyst Development Program**
 
-I'm interested in cybersecurity, cloud infrastructure, and software development. My work so far includes AWS forensics research, full-stack applications, and security competitions.
+I build cloud-deployed software and security investigation tools, with a focus on **security operations, incident investigation, cloud infrastructure, and evidence-driven engineering**. My recent work includes an interactive SOC simulator presented at AWS Student Community Day, an environmental telemetry trust platform, and graduate AWS forensic-reconstruction research.
 
-I enjoy building things, understanding how they work, and figuring out how to make them more secure. I'm continuing to explore different areas of cybersecurity as I finish my master's.
+My emphasis is on finished systems, measurable validation, and clear communication about what the evidence does—and does not—establish.
 
 ---
 
@@ -26,6 +26,20 @@ I enjoy building things, understanding how they work, and figuring out how to ma
 ---
 
 ## 🧪 Featured Projects
+
+### 🛡️ [Inside the SOC — Interactive Cyberattack Investigation Simulator](https://github.com/benjqminn/inside-the-soc)
+
+Built and presented a browser-based Security Operations Center investigation simulator for AWS Student Community Day 2026 at UNC Charlotte. The fictional training case includes **20 guided stages and 73 investigative tasks**, spanning identity and authentication review, security log exploration, evidence collection, incident assessment, and report export.
+
+Deployed using **Amazon S3 and CloudFront** with **GitHub Actions + AWS IAM OIDC**. A November 13 CI run reported **543 passing application and attendance checks** (322 unit/component, 215 browser regression, 6 attendance workflows). These tests validate defined software behavior, not real-world SOC effectiveness.
+
+[Explore the public case study, original screenshots, and testing evidence](https://github.com/benjqminn/inside-the-soc)
+
+### 🌱 [Breathe — Environmental Data Trust Platform](https://github.com/benjqminn/breatheapp)
+
+Developed a deployed React/FastAPI platform for evaluating environmental telemetry reliability: freshness, completeness, anomaly signals, source agreement, and explainable trust scoring. In a **controlled demo** using **144 pollutant readings**, observed a **27-point trust-score reduction** after simulated telemetry issues; a separate controlled evaluation passed **9/9 scenarios**. These results are simulation outcomes, not proof of real-world sensor failures.
+
+[Explore the public showcase and methodology](https://github.com/benjqminn/breatheapp)
 
 ### ☁️ Forensic Visibility in AWS
 
@@ -90,11 +104,11 @@ Experience included memory forensics, registry analysis, web exploitation, OSINT
 
 ### AWS Student Builder Group | UNC Charlotte
 
-**Cloud Programs & Events Lead**
+**Head of Strategy** (May 2026–present); previously **Cloud Programs & Events Lead** (February–May 2026)
 
-- Lead cloud-focused technical programming for students.
-- Coordinate AWS workshops, certification study groups, and hands-on infrastructure labs.
-- Led a workshop where **40+ students** deployed cloud-hosted résumés using Amazon S3 and CloudFront.
+- Coordinate cloud-focused technical programming, workshops, and applied learning opportunities.
+- Delivered an AWS cloud-hosted résumé workshop and the 2026 **Inside the SOC** hands-on security investigation session.
+- Work with student leaders and organizers to connect classroom learning with demonstrable cloud and cybersecurity projects.
 
 ### 49th Security Division
 
